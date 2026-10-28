@@ -1,0 +1,29 @@
+{
+  "name": "@roblambert9/whatsapp-mcp",
+  "version": "1.0.0",
+  "description": "WhatsApp messaging MCP server for sending/receiving messages, managing contacts, and automating WhatsApp Business with autonomous x402 pay-per-call rails. Wrapped with @monetize x402 rails.",
+  "main": "server.py",
+  "bin": {
+    "whatsapp-mcp": "server.py"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "@monetize",
+    "x402",
+    "solana",
+    "usdc",
+    "ai-agents",
+    "nanoempire",
+    "whatsapp",
+    "messaging",
+    "business",
+    "automation"
+  ],
+  "author": "Rob Lambert <roblambert9@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblambert9/whatsapp-mcp.git"
+  }
+}

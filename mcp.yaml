@@ -1,0 +1,22 @@
+name: whatsapp-mcp
+display_name: WhatsApp MCP (Monetized)
+description: WhatsApp messaging MCP server for sending/receiving messages, managing contacts, and automating WhatsApp Business with autonomous x402 pay-per-call rails.
+version: 1.0.0
+author: roblambert9
+license: MIT
+runtime: python
+pricing:
+  model: pay-per-call
+  unit_price_usd: 0.01
+  currency: USDC
+  network: Solana
+  payTo: "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3"
+  trial_credits: 50
+  trial_endpoint: "https://www.nanoempireai.com/v1/trial"
+registries:
+  - AgentOps
+  - Glama
+  - Smithery
+  - PulseMCP
+  - LangChain
+  - mcp.so

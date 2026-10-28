@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "whatsapp-mcp",
+  "description": "WhatsApp messaging MCP server for sending/receiving messages, managing contacts, and automating WhatsApp Business with autonomous x402 pay-per-call rails.",
+  "maintainers": [
+    "roblambert9"
+  ]
+}
